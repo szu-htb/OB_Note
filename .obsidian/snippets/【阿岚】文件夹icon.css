@@ -1,0 +1,78 @@
+/* 自定义文件夹黑白图标 */
+[data-type="file-explorer"] {
+    & .nav-folder > [data-path="+ 资源"] > .tree-item-inner::before {
+        content: "";
+        display: inline-block;
+        width: 16px;
+        aspect-ratio: 1;
+        padding-right: 0.5em;
+        vertical-align: middle;
+        background-color: currentColor;
+        -webkit-mask-image: url('data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIGNsYXNzPSJsdWNpZGUgbHVjaWRlLWluYm94Ij48cG9seWxpbmUgcG9pbnRzPSIyMiAxMiAxNiAxMiAxNCAxNSAxMCAxNSA4IDEyIDIgMTIiLz48cGF0aCBkPSJNNS40NSA1LjExIDIgMTJ2NmEyIDIgMCAwIDAgMiAyaDE2YTIgMiAwIDAgMCAyLTJ2LTZsLTMuNDUtNi44OUEyIDIgMCAwIDAgMTYuNzYgNEg3LjI0YTIgMiAwIDAgMC0xLjc5IDEuMTF6Ii8+PC9zdmc+');
+        -webkit-mask-repeat: no-repeat;
+        -webkit-mask-size: contain;
+    }
+  }
+  
+[data-type="file-explorer"] {
+& .nav-folder > [data-path="概念"] > .tree-item-inner::before {
+    content: "";
+    display: inline-block;
+    width: 16px;
+    aspect-ratio: 1;
+    padding-right: 0.5em;
+    vertical-align: middle;
+    background-color: currentColor;
+    -webkit-mask-image: url('data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIGNsYXNzPSJsdWNpZGUgbHVjaWRlLW1hcC1waW5uZWQiPjxwYXRoIGQ9Ik0xOCA4YzAgMy42MTMtMy44NjkgNy40MjktNS4zOTMgOC43OTVhMSAxIDAgMCAxLTEuMjE0IDBDOS44NyAxNS40MjkgNiAxMS42MTMgNiA4YTYgNiAwIDAgMSAxMiAwIi8+PGNpcmNsZSBjeD0iMTIiIGN5PSI4IiByPSIyIi8+PHBhdGggZD0iTTguNzE0IDE0aC0zLjcxYTEgMSAwIDAgMC0uOTQ4LjY4M2wtMi4wMDQgNkExIDEgMCAwIDAgMyAyMmgxOGExIDEgMCAwIDAgLjk0OC0xLjMxNmwtMi02YTEgMSAwIDAgMC0uOTQ5LS42ODRoLTMuNzEyIi8+PC9zdmc+');
+    -webkit-mask-repeat: no-repeat;
+    -webkit-mask-size: contain;
+}
+}
+
+[data-type="file-explorer"] {
+& .nav-folder > [data-path="结构"] > .tree-item-inner::before {
+    content: "";
+    display: inline-block;
+    width: 16px;
+    aspect-ratio: 1;
+    padding-right: 0.5em;
+    vertical-align: middle;
+    background-color: currentColor;
+    -webkit-mask-image: url('data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIGNsYXNzPSJsdWNpZGUgbHVjaWRlLW1hcCI+PHBhdGggZD0iTTE0LjEwNiA1LjU1M2EyIDIgMCAwIDAgMS43ODggMGwzLjY1OS0xLjgzQTEgMSAwIDAgMSAyMSA0LjYxOXYxMi43NjRhMSAxIDAgMCAxLS41NTMuODk0bC00LjU1MyAyLjI3N2EyIDIgMCAwIDEtMS43ODggMGwtNC4yMTItMi4xMDZhMiAyIDAgMCAwLTEuNzg4IDBsLTMuNjU5IDEuODNBMSAxIDAgMCAxIDMgMTkuMzgxVjYuNjE4YTEgMSAwIDAgMSAuNTUzLS44OTRsNC41NTMtMi4yNzdhMiAyIDAgMCAxIDEuNzg4IDB6Ii8+PHBhdGggZD0iTTE1IDUuNzY0djE1Ii8+PHBhdGggZD0iTTkgMy4yMzZ2MTUiLz48L3N2Zz4=');
+    -webkit-mask-repeat: no-repeat;
+    -webkit-mask-size: contain;
+}
+}
+
+[data-type="file-explorer"] {
+& .nav-folder > [data-path="日记"] > .tree-item-inner::before {
+    content: "";
+    display: inline-block;
+    width: 16px;
+    aspect-ratio: 1;
+    padding-right: 0.5em;
+    vertical-align: middle;
+    background-color: currentColor;
+    -webkit-mask-image: url('data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIGNsYXNzPSJsdWNpZGUgbHVjaWRlLWNhbGVuZGFyLWRheXMiPjxwYXRoIGQ9Ik04IDJ2NCIvPjxwYXRoIGQ9Ik0xNiAydjQiLz48cmVjdCB3aWR0aD0iMTgiIGhlaWdodD0iMTgiIHg9IjMiIHk9IjQiIHJ4PSIyIi8+PHBhdGggZD0iTTMgMTBoMTgiLz48cGF0aCBkPSJNOCAxNGguMDEiLz48cGF0aCBkPSJNMTIgMTRoLjAxIi8+PHBhdGggZD0iTTE2IDE0aC4wMSIvPjxwYXRoIGQ9Ik04IDE4aC4wMSIvPjxwYXRoIGQ9Ik0xMiAxOGguMDEiLz48cGF0aCBkPSJNMTYgMThoLjAxIi8+PC9zdmc+');
+    -webkit-mask-repeat: no-repeat;
+    -webkit-mask-size: contain;
+}
+}
+
+[data-type="file-explorer"] {
+& .nav-folder > [data-path="项目"] > .tree-item-inner::before {
+    content: "";
+    display: inline-block;
+    width: 16px;
+    aspect-ratio: 1;
+    padding-right: 0.5em;
+    vertical-align: middle;
+    background-color: currentColor;
+    -webkit-mask-image: url('data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIGNsYXNzPSJsdWNpZGUgbHVjaWRlLWZvbGRlci1rYW5iYW4iPjxwYXRoIGQ9Ik00IDIwaDE2YTIgMiAwIDAgMCAyLTJWOGEyIDIgMCAwIDAtMi0yaC03LjkzYTIgMiAwIDAgMS0xLjY2LS45bC0uODItMS4yQTIgMiAwIDAgMCA3LjkzIDNINGEyIDIgMCAwIDAtMiAydjEzYzAgMS4xLjkgMiAyIDJaIi8+PHBhdGggZD0iTTggMTB2NCIvPjxwYXRoIGQ9Ik0xMiAxMHYyIi8+PHBhdGggZD0iTTE2IDEwdjYiLz48L3N2Zz4=');
+    -webkit-mask-repeat: no-repeat;
+    -webkit-mask-size: contain;
+}
+}
+
+❗图标选取网址：https://lucide.dev/icons/?focus
+/*    找好图标后 复制date格式 然后替换掉 -webkit-mask-image: url() 括号内的内容*/

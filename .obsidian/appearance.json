@@ -1,0 +1,10 @@
+{
+  "cssTheme": "Blue Topaz",
+  "nativeMenus": true,
+  "enabledCssSnippets": [
+    "【阿岚】隐藏侧边栏",
+    "【阿岚】文件夹icon"
+  ],
+  "baseFontSizeAction": true,
+  "baseFontSize": 15
+}

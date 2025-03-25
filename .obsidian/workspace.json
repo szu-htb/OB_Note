@@ -1,0 +1,220 @@
+{
+  "main": {
+    "id": "d1e66ab8c9a8b5ea",
+    "type": "split",
+    "children": [
+      {
+        "id": "33a1f5a2cd47f015",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2db9e86f902d884a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "电赛/Stm32.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e3516bbf39f72d13",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "蓝牙.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "81c14a69fa8e209d",
+    "type": "split",
+    "children": [
+      {
+        "id": "097a5e585375a75d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e918a5b58c83b22c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3c100bbf251f92a3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "dcb6e7cd84ffdeed",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a0cc90f6c3af5095",
+    "type": "split",
+    "children": [
+      {
+        "id": "bb6d2c64c742f886",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cf1e19930b1ccf65",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "电赛/Stm32.md",
+                "linksCollapsed": true,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "f227bfa0d1801522",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          },
+          {
+            "id": "883077d6aeb9f184",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "电赛/Stm32.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "01a2acea4bff380e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "电赛/Stm32.md"
+              }
+            }
+          },
+          {
+            "id": "fe5833e07b7bdad8",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "markdown-importer:打开 Markdown 格式转换器": true,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "fe5833e07b7bdad8",
+  "lastOpenFiles": [
+    "OB_Note/README.md",
+    "OB_Note",
+    "蓝桥杯-嵌入式.md",
+    "附件/987e01fc93d139dba14c97d1adcb616.jpg",
+    "Pasted image 20240916142916.png.md",
+    "电赛/Stm32.md",
+    "蓝牙.md",
+    "大二二面考核.md",
+    "定时器.md",
+    "Git.md",
+    "未命名.md",
+    "Oled.md",
+    "电赛/电源类备赛.md",
+    "image.png",
+    "Pasted image 20240916142916.png",
+    "Pasted image 20241007205745.png",
+    "Pasted image 20240916115116.png",
+    "Pasted image 20240916110951.png",
+    "Pasted image 20240914202323.png",
+    "().md",
+    "ob使用教程/图传.md",
+    "附件/Pasted image 20250323001549.png",
+    "附件/Pasted image 20250323004407.png",
+    "附件/Pasted image 20250323003936.png",
+    "ob使用教程",
+    "附件",
+    "BMO/Profiles/BMO.md",
+    "Python/多线程.md",
+    "Python/常用思路.md",
+    "Python/常见问题.md",
+    "Matlab/课堂笔记.md",
+    "Python/Pyhton.md",
+    "流程图.md",
+    "电赛/Openmv.md",
+    "电赛/PID.md",
+    "Ros.md",
+    "Keil5 安装问题汇总.md",
+    "未命名看板 1.md",
+    "未命名看板.md",
+    "BMO/Profiles",
+    "BMO",
+    "电赛",
+    "Python",
+    "ROS/未命名.canvas",
+    "Matlab",
+    "ROS"
+  ]
+}
